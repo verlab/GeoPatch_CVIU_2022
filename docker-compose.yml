@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  geopatch:
+    image: geopatch-1.0  
+    build: .            
+    container_name: geopatch_container
+    stdin_open: true
+    tty: true
+
