@@ -1,4 +1,6 @@
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![arXiv](https://img.shields.io/badge/arXiv-2203.12016-b31b1b.svg)](https://arxiv.org/abs/2203.12016)
+
 
 
 # GeoPatch Descriptor
@@ -6,7 +8,7 @@
 This repository contains the original implementation of the descriptor "<b>Learning Geodesic-Aware Local Features from RGB-D Images</b>", published at Computer Vision and Image Understanding journal. GeoPatch is by design invariant to isometric non-rigid deformations of surfaces by leveraging geodesic-invariant sampling, designed as a mapping function before descriptor computation is performed from photometric information.
 
 
-## <b>Learning Geodesic-Aware Local Features from RGB-D Images</b> <br>[[Project Page]](https://www.verlab.dcc.ufmg.br/descriptors/cviu2022/) [[Paper]](https://arxiv.org/abs/2203.12016)
+## <b>Learning Geodesic-Aware Local Features from RGB-D Images</b> <br>[[Project Page]](https://www.verlab.dcc.ufmg.br/descriptors/geopatch_cviu22/) [[Paper]](https://arxiv.org/abs/2203.12016)
 
 <img src='./images/teaser.jpg' align="center" width=900 />
 
